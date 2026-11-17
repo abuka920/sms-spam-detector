@@ -1,5 +1,7 @@
 # 🛡️ SMS Spam & Smishing Detector
 
+**Live demo:** https://kalif-spam-detector.streamlit.app
+
 Paste a text message and find out if it's spam or a phishing attempt (smishing). It gives a risk score and points out the red flags in plain English, the way a fraud analyst would.
 
 ## Results
