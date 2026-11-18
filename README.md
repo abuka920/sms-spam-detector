@@ -81,4 +81,4 @@ tests/              Unit tests
 
 ---
 
-Built by **Kalif Abu** · [LinkedIn](https://linkedin.com/in/kalifabu)
+Built by **Kalif Abu** · [LinkedIn](https://linkedin.com/in/kalif-abu-262430264)
